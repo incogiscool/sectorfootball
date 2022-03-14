@@ -1,0 +1,28 @@
+.ul {
+    list-style: none;
+    display: flex;
+    float: right;
+}
+
+.ul a {
+    margin: 15px;
+    font-size: 20px;
+    transition: 0.2s;
+}
+
+.ul a:hover {
+    color: rgb(0, 101, 114);
+}
+
+.logo {
+    cursor: pointer;
+    margin: 15px;
+}
+
+.container {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.enroll {
+    color: rgb(4, 134, 255);
+}

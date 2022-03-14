@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.titleH1 {
+  text-align: center;
+  color: rgb(42, 119, 219);
+  font-family: 'Open Sans', sans-serif;
+}
+
+.enrollLink {
+  color: rgb(0, 89, 255);
+  cursor: pointer;
+}
+
+.desc {
+  margin: 40px;
+}
+
+.mainDesc {
+  font-size: 17px;
+}
+
+.descTitle {
+  font-size: 25px;
+}
